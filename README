@@ -1,0 +1,3 @@
+I was asked to create an informal export from Mailboxes with the Total Mailbox Size. Till now nothing special, I know. But the requester asked also for the Total Size of the Archive Mailbox from each User. So I had to find a Way, to merge all outputs for each user. But here is the next small challenge, not all Users has an Archive 
+Mailbox.
+After figuring out, how to create an Output I found for myself the Solution you can find in the GetMailboxSizeExportWithArchive.ps1 Script.
